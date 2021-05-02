@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TIOBE</string>
+    <string name="loading">Загрузка данных…</string>
+    <string name="update">Обновить</string>
+    <string name="no_data">Нет данных…</string>
+    <string name="error">Ошибка!</string>
+</resources>
